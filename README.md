@@ -37,7 +37,7 @@ A visually stunning **Pokémon Cards** showcase built with pure HTML and CSS, fe
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/hover-games.git
+   git clone https://github.com/Codedbyriyad/hover-games.git
    ```
 
 2. **Navigate into the project folder:**
@@ -115,7 +115,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-Made with ❤️ and CSS by **[Your Name](https://github.com/your-username)**
+Made with ❤️ and CSS by **[Kaysar Mahmud](https://github.com/Codedbyriyad)**
 
 > *"Gotta hover 'em all!"* 🔥
 
